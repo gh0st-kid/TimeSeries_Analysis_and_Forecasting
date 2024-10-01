@@ -1,6 +1,6 @@
 # Time Seriese Project
 
-This project was prepared and implemented for a master's thesis on the analysis of time series characterizing the labor market in the Russian Federation.
+This project was prepared and implemented in order to analyze the time series characterizing the labor market in the Russian Federation.
 
 The original dataset was formed from data collected from the Rosstat website. The following indicators were used in this scientific research: 
 * Average per capita monetary income
