@@ -1,4 +1,4 @@
-# Time Seriese Project
+# Time Series Analysis and Prediction project
 
 This project was prepared and implemented in order to analyze the time series characterizing the labor market in the Russian Federation.
 
