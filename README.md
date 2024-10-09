@@ -68,4 +68,4 @@ The following main libraries were used in this project:
 If you have any questions about the project, feel free to reach out to me:
 
 * Email: ---
-* GitHub: ---
+* [GitHub](https://github.com/gh0st-kid)
